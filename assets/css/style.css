@@ -214,3 +214,31 @@
     border: 1px solid white;
     border-radius: 2px;
 }
+
+
+/* hero */
+
+.hero {
+    background-image: url("/assets/img/hero_image.jpg");
+    height: 350px;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.hero a {
+    text-decoration: none;
+    color: #457074;
+}
+
+.hero-headline {
+    margin-bottom: 20px;
+    font-size: 14px;
+    height: 40px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 90%;
+}
