@@ -42,7 +42,7 @@
 }
 
 .logo-img {
-    background-image: url("/assets/img/amazon_logo.png");
+    background-image: url("/amazon_logo.png");
     height: 50px;
     width: 113px;
     background-size: cover;
@@ -219,7 +219,7 @@
 /* hero */
 
 .hero {
-    background-image: url("/assets/img/hero_image.jpg");
+    background-image: url(" /hero_image.jpg");
     height: 350px;
     background-size: cover;
     display: flex;
