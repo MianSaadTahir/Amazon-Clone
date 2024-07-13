@@ -286,3 +286,100 @@
 .see-more {
     font-size: 13px;
 }
+
+
+/* footer back to top */
+
+.backtop {
+    background-color: #37475a;
+    color: white;
+    height: 50px;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+}
+
+.backtop:hover {
+    background-color: #485769;
+}
+
+
+/* footer about */
+
+.about {
+    padding-top: 50px;
+    display: flex;
+    color: white;
+    background-color: #232f3e;
+    justify-content: space-evenly;
+    height: 300px;
+    border-bottom: 1px #3a4553 solid;
+}
+
+.about li {
+    color: #cccccc;
+    list-style-type: none;
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+
+.about h5 {
+    margin-bottom: 15px;
+}
+
+
+/* footer logo */
+
+.footerBtns-container {
+    display: flex;
+    height: 100px;
+    background-color: #232f3e;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer-logo {
+    margin-right: 100px;
+}
+
+.footerBtns {
+    width: 130px;
+    margin: 3px;
+    border: 1px #767676 solid;
+    display: flex;
+    align-items: center;
+    font-size: 13px;
+    height: 33px;
+    color: #cccccc;
+    background-color: #232f3e;
+    border-radius: 3px;
+    text-decoration: none;
+}
+
+.language-option {
+    border: none;
+}
+
+
+/* copyright footer */
+
+.foot-container {
+    padding-top: 15px;
+    height: 80px;
+    background-color: #131a22;
+    text-align: center;
+}
+
+.privacy-pages a {
+    text-decoration: none;
+    color: white;
+    font-size: 12px;
+}
+
+.copyright p {
+    padding-top: 5px;
+    color: white;
+    font-size: 12px;
+}
