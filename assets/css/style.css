@@ -1,0 +1,162 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    border: border-box;
+}
+
+
+/* box borders */
+
+.border {
+    height: 60px;
+    border: 1px solid transparent;
+    border-radius: 2px;
+}
+
+.border:hover {
+    border: 1px solid white;
+    border-radius: 2px;
+}
+
+
+/* navigation bar */
+
+.navbar {
+    background-color: #13171d;
+    height: 65px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+
+/* amazon logo */
+
+.nav-logo {
+    height: 60px;
+    width: 113px;
+}
+
+.logo-img {
+    background-image: url("/assets/img/amazon_logo.png");
+    height: 50px;
+    width: 113px;
+    background-size: cover;
+}
+
+
+/* delivery location */
+
+.nav-deliver {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.location-logo {
+    display: flex;
+    align-items: center;
+}
+
+.line1 {
+    font-size: 0.625rem;
+    color: #cccccc;
+    margin-left: 17px;
+}
+
+.line2 {
+    font-size: 0.70rem;
+    font-weight: bold;
+    margin-left: 7px;
+}
+
+
+/* search area */
+
+.nav-search {
+    display: flex;
+    background-color: #febd69;
+    height: 40px;
+    width: 833px;
+    justify-content: space-evenly;
+    border-radius: 5px;
+}
+
+.select-drop {
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    background-color: #f3f3f3;
+    color: #666666;
+    width: 50px;
+    text-align: center;
+    font-size: xx-small;
+    border: none;
+}
+
+.search-bar {
+    width: 100%;
+    border: none;
+    font-size: x-small;
+}
+
+.search-logo {
+    width: 45px;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+/* language */
+
+.nav-language {
+    background-color: #13171d;
+    border: none;
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+
+/* sign-in */
+
+.sign-in {
+    align-content: center;
+}
+
+.lineone {
+    color: #cccccc;
+    font-size: 0.625rem;
+}
+
+.linetwo {
+    font-weight: bold;
+    font-size: 0.70rem;
+}
+
+
+/* returns */
+
+.return {
+    align-content: center;
+}
+
+
+/* cart */
+
+.cart {
+    display: flex;
+    align-items: center;
+}
+
+.cart i {
+    font-size: 33px;
+}
+
+#cart-line {
+    margin-top: 14px;
+}
