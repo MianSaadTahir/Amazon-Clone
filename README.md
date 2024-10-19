@@ -1,6 +1,6 @@
 # Amazon Clone
 
-This clone is a replica of the Amazon homepage, created using HTML and CSS. This project demonstrates front-end development skills and  core knowledge of css flexbox.
+This clone is a replica of the Amazon homepage, created using HTML and CSS. This project demonstrates my front-end development skills and  core knowledge of css flexbox.
  
 ## Table of Contents
 - [Screenshots](#screenshots)
