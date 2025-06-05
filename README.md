@@ -23,6 +23,3 @@ This clone is a replica of the Amazon homepage, created using HTML and CSS. This
 ## Contributing
 Contributions, issues, and feature requests are welcome!  
 Feel free to check out the [issues page](https://github.com/miansaadtahir/Amazon-Clone/issues) for more information.
-
-## License
-Distributed under the MIT License. See [LICENSE](./LICENSE) for more details.
