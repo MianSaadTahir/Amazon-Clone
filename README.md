@@ -13,7 +13,7 @@ This clone is a replica of the Amazon homepage, created using HTML and CSS. This
 <img src="assets/2.png" alt="Screenshot" width="75%">
 
 ## Live Preview
-1. Click [here](https://amazon-clone-mian-saad-tahir.netlify.app/) to go live.
+1. Click [here](https://amazon-clone-mian-saad-tahir.netlify.app/) to view live demo.
 
 ## Technologies Used
 - HTML
