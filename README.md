@@ -7,7 +7,6 @@ This clone is a replica of the Amazon homepage, created using HTML and CSS. This
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Screenshots
 <img src="assets/1.png" alt="Screenshot" width="75%">
