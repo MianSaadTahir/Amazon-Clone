@@ -21,7 +21,7 @@ This clone is a replica of the Amazon homepage, created using HTML and CSS. This
 
 ## Contributing
 Contributions, issues, and feature requests are welcome!  
-Feel free to check out the [issues page](https://github.com/miansaadtahir/Amazon-Clone/issues) for more information.
+Feel free to check out the [issues page](https://github.com/miansaadtahir/Amazon-Clone/issues).
 ## License
 
 This project is open source and available under the MIT [License](https://github.com/MianSaadTahir/Amazon-Clone/blob/main/LICENSE).
